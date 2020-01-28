@@ -1,6 +1,6 @@
 # hello-world
 Just checking out
 
-# Another section added in feature branch
+# A nice todo list
 - [x] first todo
 - [ ] second todo
